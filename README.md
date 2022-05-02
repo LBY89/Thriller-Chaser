@@ -6,10 +6,16 @@ Game rules:\
 -> There are two tailing monster which can inflict 1 unit healthy value to player\
 -> Player can take a break think about next move by hidding near the door\
 
-Some screenshots about this game:
+Some screenshots about this game:\
+\
 -> Start view\
+\
 ![alt start](start.png)
+\
 -> During the game\
+\
 ![alt during the game](inthegame.png)
+\
 -> Getting result\
+\
 ![alt result](result.png)
