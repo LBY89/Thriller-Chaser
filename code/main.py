@@ -235,13 +235,10 @@ def game_loop():
     counter_increase = 0
 
     while True:
-
         #fill bg
         #before_start()
         gameDisplay.fill((52, 247, 124))
-        
         #all events!!!!
-
         #monsters tailing robot player here
         for event in pygame.event.get():
 
