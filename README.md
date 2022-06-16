@@ -10,12 +10,12 @@ Some screenshots about this game:\
 \
 -> Start view\
 \
-![alt start](start.png)
+![alt start](sprites/start.png)
 \
 -> During the game\
 \
-![alt during the game](inthegame.png)
+![alt during the game](sprites/inthegame.png)
 \
 -> Getting result\
 \
-![alt result](result.png)
+![alt result](sprites/result.png)
